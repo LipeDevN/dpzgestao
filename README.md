@@ -29,6 +29,7 @@ Abra o endereço servido acima para visualizar o projeto completo. `reference.ht
 
 - `dist/index.html`: página principal.
 - `dist/termos-de-uso.html`: termos de uso, acessíveis pelo rodapé.
+- `dist/politica-de-privacidade.html`: política de privacidade, ao lado dos termos.
 - `dist/termos.css`: apresentação da página de termos.
 - `dist/shared.css`: estilos e layout responsivo.
 - `dist/dpz.css`: identidade visual e ajustes da DPZ.
@@ -52,3 +53,7 @@ Referências: [Dockerfile no Railway](https://docs.railway.com/builds/dockerfile
 A página de termos foi adaptada ao site institucional atual, sem cadastros ou formulários, e usa a sede como endereço para correspondência. A navegação não solicita aceite nem consentimento para marketing. O texto deve passar por revisão jurídica e operacional antes da publicação, especialmente quanto ao tratamento efetivo de dados pela hospedagem e ao recebimento de solicitações.
 
 Referência visual: https://lgpd.phng.com.br/. O conteúdo não reproduz as autorizações de crédito ou os contatos da PH. Orientações sobre titulares: https://www.gov.br/anpd/pt-br/assuntos/titular-de-dados.
+
+## Política de Privacidade
+
+A política descreve a aplicação atual, a hospedagem Railway, o processamento técnico, o mapa externo e o contato por correspondência. Não foi inventado um prazo de retenção específico: confirme o plano contratado e as práticas operacionais da empresa na revisão jurídica. Referências: documentação de logs do Railway e orientações da ANPD, vinculadas na página. Não há consentimento presumido nem novos rastreadores.

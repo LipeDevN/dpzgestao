@@ -1,66 +1,15 @@
-[
-  {
-    "url": "https://library.phng.com.br/LOGOS_CPNJ/corretora.png",
-    "file": "assets/751e0785e52c.png"
+{
+  "photo": {
+    "file": "assets/dpz-equipe.jpg",
+    "source": "https://unsplash.com/pt-br/fotografias/um-grupo-de-pessoas-sentadas-ao-redor-de-uma-mesa-com-laptops-2S7YTrRngAU",
+    "purpose": "Imagem ilustrativa de reunião empresarial"
   },
-  {
-    "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=80&h=80&fit=crop&crop=face",
-    "file": "assets/661218d2093b.jpg"
+  "fonts": {
+    "family": "Poppins",
+    "stylesheet": "assets/fonts.css"
   },
-  {
-    "url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=80&h=80&fit=crop&crop=face",
-    "file": "assets/3a8d137f2ea6.jpg"
-  },
-  {
-    "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=80&h=80&fit=crop&crop=face",
-    "file": "assets/f2f26fa12bf3.jpg"
-  },
-  {
-    "url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=80&h=80&fit=crop&crop=face",
-    "file": "assets/67d5f6f38f5c.jpg"
-  },
-  {
-    "url": "https://library.phng.com.br/consorcio/children-security-family-safety-parents-with-smile-kids-relax-living-room-floor-house-care-lounge-together-mother-father-happy-with-girl-siblings-cardboard-roof.jpg.jpeg",
-    "file": "assets/2ca755f6ac6d.jpg"
-  },
-  {
-    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_pKKOGDflZJ6s0QoLkStFUlFfWZAkE6-d_Q&s",
-    "file": "assets/d4a8ec1da314.png"
-  },
-  {
-    "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=96&h=96&fit=crop&crop=face",
-    "file": "assets/3ffa27f83a46.jpg"
-  },
-  {
-    "url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=96&h=96&fit=crop&crop=face",
-    "file": "assets/f9e4f041b089.jpg"
-  },
-  {
-    "url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=96&h=96&fit=crop&crop=face",
-    "file": "assets/fb74fa282de9.jpg"
-  },
-  {
-    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf",
-    "file": "assets/2121f7affc79.ttf"
-  },
-  {
-    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf",
-    "file": "assets/60d735c39b50.ttf"
-  },
-  {
-    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf",
-    "file": "assets/bf743e685dc8.ttf"
-  },
-  {
-    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf",
-    "file": "assets/f7e5bad013db.ttf"
-  },
-  {
-    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf",
-    "file": "assets/720d795c45b1.ttf"
-  },
-  {
-    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4V1s.ttf",
-    "file": "assets/b957bafb81b6.ttf"
+  "icon": {
+    "file": "assets/dpz-icon.svg",
+    "purpose": "Identificação tipográfica criada para o site"
   }
-]
+}

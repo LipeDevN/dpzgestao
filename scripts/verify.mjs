@@ -55,7 +55,7 @@ try {
   report.checks.push('Mobile layout without overflow and mobile menu');
   await page.setViewportSize({width:1440,height:1000});
   await page.goto('http://localhost:4173', {waitUntil:'networkidle'});
-  await page.evaluate(async()=>{for(let y=0;y<document.body.scrollHeight;y+=700){scrollTo(0,y);await new Promise(r=>setTimeout(r,90))}scrollTo(0,0)});
+  await page.evaluate(async()=>{for(let y=0;y<document.body.scrollHeight;y+=500){scrollTo({top:y,behavior:'instant'});await new Promise(r=>setTimeout(r,120))}scrollTo({top:0,behavior:'instant'})});
   await page.waitForTimeout(800);
   await page.screenshot({path:'artifacts/full-page.png',fullPage:true,animations:'disabled'});
   assert.deepEqual(report.errors,[]);
